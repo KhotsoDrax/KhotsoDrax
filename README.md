@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @KhotsoDrax
 - 👀 I’m interested in Multiple programming languages
 - 🌱 I’m currently learning Python and Java
+- Databases
+- Pipelines and API's
+- Linux and Terminal commands
