@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Khotso Meje a tech enthusiast.<br>Software Development and Systems Support Graduate<br><br>🔭 I’m currently working on honing my skills in the realm of Java and web development<br>👯 I’m looking to collaborate on web development mostly as i'm fascinated  by back end and interactivity <br>🤝 I’m looking for help with gaining valuable industry knowledge<br>🌱 I’m currently learning java, javascript & C#<br>💬 Ask me about anything and we could tackle everything <br>⚡ Fun fact when they ask about my weaknesses i always say i cannot say no.
+Hi, my name is Khotso Meje a tech enthusiast.<br>Software Development and Systems Support Graduate<br><br>🔭 I’m currently working on honing my skills in the realm of Java and web development<br>👯 I’m looking to collaborate on web development mostly as i'm fascinated  by back end and interactivity <br>🤝 I’m looking for help with gaining valuable industry knowledge<br>🌱 I’m currently learning java, javascript & C#<br>💬 Ask me about anything and we could tackle everything <br>⚡ Fun fact when they ask about my weaknesses i always say "The Honda blackbird was the fatest Japanese motorcyle until the Suzuki Hayabusa took presidence" and I'm the next Hayabusa.
 
 
 ## 🌐 Socials:
